@@ -1,0 +1,9 @@
+{
+	"name": "defde",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d0dc7ef0-d0b4-4747-88df-055f5f782578",
+		"tenantId": "b5061b5d-ad19-4dda-abc7-bd8fcf107d6e"
+	}
+}
